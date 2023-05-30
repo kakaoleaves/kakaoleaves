@@ -10,8 +10,6 @@
 <p>
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=React&logoColor=61DBFB"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=flat-square&logo=Unreal%20Engine&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
 ### Languages
