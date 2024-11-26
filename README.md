@@ -1,9 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkakaoleaves%2Fhit-counter&count_bg=%23800080&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 👋 Hi There!
-- 🎓 I'm a senior at Sungkyunkwan University, majoring in Computer Science.
-- ✨ I have experienced WEB and APP development based on React and React Native for a year and a half.
-- 🌱 I’m currently learning Unreal Engine, Unity, and C++ STL for Game Engineering.
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/kakaoleaves"/>
+</a>
 
 ## 💪 Skills
 ### Platforms
